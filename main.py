@@ -126,7 +126,6 @@ def register(serverinv, captchakey):
     # global_username, username = user_name()
     global_username, username = random_char(10), random_char(10)
     # email = random_char(10) + "@" + random_char(10) + ".com"
-    email = "niceac256+main06@gmail.com"
     password = random_char(18)
     header1 = {
         "Host": "discord.com",
