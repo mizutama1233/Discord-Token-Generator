@@ -255,7 +255,7 @@ class Solver:
         else:return "Something wrong"
 
 async def manage():
-    apikey = "kaon0dayo-931600f8-4fc1-173e-de79-c695a3f49865"
+    apikey = ""
     site = "discord.com"
     sitekey = "4c672d35-0701-42b2-88c3-78380b0db560"
     if apikey == "" or site == "" or sitekey == "":
