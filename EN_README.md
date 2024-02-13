@@ -13,3 +13,5 @@ You might be able to fix it by editing.
 japanese
 
 https://discord.gg/haihu
+
+If there are many stars, I will update.
