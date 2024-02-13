@@ -10,4 +10,6 @@ You might be able to fix it by editing.
 5. Let's enjoy!!
 
 # Join now
+japanese
+
 https://discord.gg/haihu
