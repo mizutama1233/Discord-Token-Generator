@@ -14,3 +14,5 @@
 
 # Join now
 https://discord.gg/haihu
+
+スターが多かったら更新します
