@@ -1,4 +1,7 @@
 # Discord-Token-Generator
+
+[Readme EN](https://github.com/mizutama1233/Discord-Token-Generator/blob/main/EN_README.md)
+
 ## アカウントロックされちゃう
 編集すればいけるかもね
 
