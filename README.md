@@ -10,7 +10,7 @@
 2. `pip install requests pyppeteer`
 3. main.py, solve.pyを編集（email, APIKEYなど）
 4. `py main.py`
-5. Let's enjoy!!
+5. Let's enjoy!
 
 # Join now
 https://discord.gg/haihu
